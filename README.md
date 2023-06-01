@@ -7,26 +7,26 @@
 <br/>
 
 ## Artikel : 
-<img src="img/artikel.jpg">
+<img src="img/artikel.png">
 
 <br/>
 
 ## Detail Artikel : 
-<img src="img/detail-artikel.jpg">
+<img src="img/detail-artikel.png">
 
 <br/>
 
 ## Admin Artikel : 
-<img src="img/admin-artikel.jpg">
+<img src="img/admin-artikel.png">
 
 <br/>
 
 ## Admin Tambah Artikel : 
-<img src="img/admin-tambah-artikel.jpg">
+<img src="img/add-artikel.png">
 
 <br/>
 
 ## Admin Edit Artikel : 
-<img src="img/admin-edit-artikel.jpg">
+<img src="img/edit-artikel.png">
 
 <br/>
