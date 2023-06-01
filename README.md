@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Praktikum 8: Framework Lanjutan (CRUD)
 
 **_Nama: Zaini Muhtarom_** <br/>
@@ -31,3 +32,10 @@
 
 <br/>
 
+=======
+# TUGAS Lab7 PHP Framework (Codeigniter) Pemograman Web 2
+
+**_Nama : Zaini Muhtarom_** <br/>
+**_NIM : 312110294_** <br/>
+**_Kelas : TI.21.A3_** <br/>
+>>>>>>> 89bd271c0e591dc712b7e0607ce67a2d60b75ee8
